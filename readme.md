@@ -4,7 +4,8 @@ A lot of people suffer from depression and anxiety, and we are trying to change 
 
 
 Screenshot:
-![image](https://user-images.githubusercontent.com/71602299/178105939-da05bef7-e140-456c-a1dd-d9eea9412020.png)
+![gif](https://user-images.githubusercontent.com/71602299/178108680-627d7c74-41ff-4163-9835-a1bbab2518a2.gif)
+
 
 
 
